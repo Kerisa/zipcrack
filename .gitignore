@@ -1,0 +1,12 @@
+*.obj
+*.ipch
+*.vcxproj.user
+*.iobj
+*.ipdb
+*.ilk
+*.tlog
+*.idb
+*.recipe
+*.obj.enc
+
+.vs
